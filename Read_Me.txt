@@ -1,4 +1,11 @@
   ========================================
+  August 2023
+  Fix issue with not working with EEGLAB menus
+  This version was issued by the EEGLAB team not the ANT company
+  Version 1.14
+  ========================================
+
+  ========================================
   February 2017
   MATLAB / EEGLAB import / plugin for ANT continuous data, trigger files and averages
   Version 1.13
